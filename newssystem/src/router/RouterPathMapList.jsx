@@ -1,0 +1,16 @@
+export default {
+    "/home": "../views/sandbox/home/Home",
+    "/user-manage/list": "../views/sandbox/user-manage/UserList",
+    "/right-manage/role/list": "../views/sandbox/right-manage/RoleList",
+    "/right-manage/right/list": "../views/sandbox/right-manage/RightList",
+    "/news-manage/add": "../views/sandbox/news-manage/NewsAdd",
+    "/news-manage/draft": "../views/sandbox/news-manage/NewsDraft",
+    "/news-manage/category": "../views/sandbox/news-manage/NewsCategory",
+    "/news-manage/preview/:id": "../views/sandbox/news-manage/NewsPreview",
+    "/news-manage/update/:id": "../views/sandbox/news-manage/NewsUpdate",
+    "/audit-manage/audit": "../views/sandbox/audit-manage/Audit",
+    "/audit-manage/list": "../views/sandbox/audit-manage/AuditList",
+    "/publish-manage/unpublished": "../views/sandbox/publish-manage/Unpublished",
+    "/publish-manage/published": "../views/sandbox/publish-manage/Published",
+    "/publish-manage/sunset": "../views/sandbox/publish-manage/Sunset",
+}
